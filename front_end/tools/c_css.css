@@ -1,0 +1,38 @@
+.certificado_css3 {
+  width: 275px;
+  height: 344px;
+  border-radius: 1.25rem;
+  position: relative;
+  perspective: 1000px;
+}
+
+.css3_obc,
+.certificado_css3 {
+  width: 275px;
+  height: 344px;
+  border-radius: 1.25rem;
+}
+
+.front,
+.back {
+  position: absolute;
+  backface-visibility: hidden;
+  transform-style: preserve-3d;
+  transition: all 1s ease;
+}
+
+.front {
+  transform: rotateY(0deg);
+}
+
+.back {
+  transform: rotateY(180deg);
+}
+
+.certificado_css3:hover .front {
+  transform: rotateY(-180deg);
+}
+
+.certificado_css3:hover .back {
+  transform: rotateY(0deg);
+}
