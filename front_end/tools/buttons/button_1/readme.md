@@ -13,13 +13,10 @@ Pode ser usado em qualquer página web para compor interfaces modernas e respons
 
 ## 📂 Estrutura dos arquivos
 
-front_end/
-└── tools/
-    └── buttons/
-        └── button_1/
-            ├── button-1.html   # Estrutura HTML do botão
-            ├── button-1.css    # Estilos CSS aplicados
-            └── preview.gif     # Animação de demonstração do componente
+- button_1/
+  - button-1.html → Estrutura HTML do componente
+  - button-1.css → Estilos CSS aplicados
+  - preview.gif → Animação ou imagem de demonstração
 
 ---
 
