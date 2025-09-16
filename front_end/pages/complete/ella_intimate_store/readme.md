@@ -1,6 +1,6 @@
 # Ella Intimate Store
 
-Este repositório apresenta o **projeto de front-end** desenvolvido para a *Ella Intimate Store*, uma loja virtual de produtos íntimos.  
+**Projeto de front-end** desenvolvido para a *Ella Intimate Store*, uma loja virtual de produtos íntimos.  
 O trabalho foi realizado em parceria com a **SSA Digital**.  
 Foi o meu primeiro grande desafio profissional na área de tecnologia.  
 
