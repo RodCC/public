@@ -1,7 +1,7 @@
 # Dropdown 1
 
-Este projeto apresenta um menu dropdown estilizado em **HTML + CSS**, desenvolvido como parte da biblioteca
-de componentes front-end. Pode ser usado em qualquer página web para compor interfaces modernas e responsivas.  
+Este projeto apresenta um menu dropdown estilizado em **HTML + CSS**, desenvolvido como parte da biblioteca de componentes front-end.
+Pode ser usado em qualquer página web para compor interfaces modernas e responsivas.  
 
 ---
 
