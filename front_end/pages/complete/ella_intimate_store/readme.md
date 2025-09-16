@@ -28,7 +28,7 @@ A cada etapa foram feitos ajustes visuais e funcionais para garantir fidelidade 
 
 - **HTML5** → Estrutura semântica das páginas e organização dos conteúdos.  
 - **CSS3** → Estilização, responsividade e personalização visual de todos os elementos.  
-- **JavaScript (Vanilla)** → Interatividade e dinamismo da interface (sliders, pop-ups, carousels).  
+- **JavaScript** → Interatividade e dinamismo da interface (sliders, pop-ups, carousels).  
 
 ---
 
