@@ -50,11 +50,11 @@ A cada etapa foram feitos ajustes visuais e funcionais para garantir fidelidade 
 
 - `/index.html` → Página inicial com o slider principal.
 - `/assets/` → Imagens, ícones e demais recursos visuais.
-- `/assets/css/` → Pasta de estilos (CSS3).
-- `/assets/fonts/` → Pasta de fontes.
-- `/assets/img/` → Pasta de imagens.    
-- `/assets/js/` → Pasta com scripts de interatividade.  
-- `/assets/scss` → Arquivos-fonte de estilos em SCSS (pré-processador), compilados para CSS.  
+  - `/assets/css/` → Pasta de estilos (CSS3).
+  - `/assets/fonts/` → Pasta de fontes.
+  - `/assets/img/` → Pasta de imagens.    
+  - `/assets/js/` → Pasta com scripts de interatividade.  
+  - `/assets/scss` → Arquivos-fonte de estilos em SCSS (pré-processador), compilados para CSS.  
 
 ---
 
