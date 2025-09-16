@@ -7,6 +7,12 @@ O site foi idealizado para oferecer uma experiência de compra **moderna, intuit
 
 ---
 
+## 🎥 Prévia
+
+![Preview do botão](./preview.gif)
+
+---
+
 ## ✨ Sobre o projeto
 
 O desenvolvimento contemplou toda a camada de **interface e interação do usuário (UI/UX)**, sendo implementado com **HTML5, CSS3 e JavaScript**.  
@@ -40,10 +46,13 @@ Apesar de o back-end não ter sido concluído, todo o front-end foi entregue com
 
 ## 📂 Estrutura dos arquivos
 
-- `/index.html` → Página inicial com o slider principal.  
-- `/css/` → Pasta de estilos (CSS3).  
-- `/js/` → Pasta com scripts de interatividade.  
-- `/assets/` → Imagens, ícones e demais recursos visuais.  
+- `/index.html` → Página inicial com o slider principal.
+- `/assets/` → Imagens, ícones e demais recursos visuais.
+- `/assets/css/` → Pasta de estilos (CSS3).
+- `/assets/fonts/` → Pasta de fontes.
+- `/assets/img/` → Pasta de imagens.    
+- `/assets/js/` → Pasta com scripts de interatividade.  
+- `/assets/scss` → Arquivos-fonte de estilos em SCSS (pré-processador), compilados para CSS.  
 
 ---
 
@@ -64,4 +73,4 @@ Este projeto foi um marco na minha jornada:
 
 ---
 
-✦ Desenvolvido por [Seu Nome] em parceria com **SSA Digital**.
+✦ Desenvolvido por *Rodrigo Canário Cerqueira* em parceria com **SSA Digital**.
