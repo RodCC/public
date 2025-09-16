@@ -1,9 +1,10 @@
 # Ella Intimate Store
 
-Este repositório apresenta o **projeto de front-end** desenvolvido para a *Ella Intimate Store*, uma loja virtual especializada na venda de produtos íntimos.  
-O trabalho foi realizado em parceria com a **SSA Digital** e marcou meu primeiro grande desafio profissional na área de tecnologia.  
+Este repositório apresenta o **projeto de front-end** desenvolvido para a *Ella Intimate Store*, uma loja virtual de produtos íntimos.  
+O trabalho foi realizado em parceria com a **SSA Digital**.  
+Foi o meu primeiro grande desafio profissional na área de tecnologia.  
 
-O site foi idealizado para oferecer uma experiência de compra **moderna, intuitiva e envolvente**, alinhada com o público-alvo da marca.  
+O site foi pensado para oferecer uma experiência de compra **moderna, intuitiva e suave**, alinhada ao público-alvo da marca.   
 
 ---
 
@@ -15,10 +16,11 @@ O site foi idealizado para oferecer uma experiência de compra **moderna, intuit
 
 ## ✨ Sobre o projeto
 
-O desenvolvimento contemplou toda a camada de **interface e interação do usuário (UI/UX)**, sendo implementado com **HTML5, CSS3 e JavaScript**.  
-Durante o processo, trabalhei diretamente com o cliente para ajustar detalhes visuais e funcionais, garantindo que o design fosse fiel às expectativas.  
+O desenvolvimento contemplou toda a camada de **interface e interação do usuário (UI/UX)**.  
+Foram utilizadas as tecnologias **HTML5, CSS3 e JavaScript**.  
 
-Apesar de o back-end não ter sido concluído, todo o front-end foi entregue com as funcionalidades planejadas e adaptadas ao longo do projeto.  
+Durante o processo, trabalhei diretamente com o cliente.  
+A cada etapa foram feitos ajustes visuais e funcionais para garantir fidelidade às expectativas.  
 
 ---
 
