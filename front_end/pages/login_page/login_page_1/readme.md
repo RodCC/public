@@ -7,7 +7,7 @@ Pode ser usado em qualquer página web para compor interfaces modernas e respons
 
 ## 🎥 Prévia
 
-![Preview do botão](./preview.gif)
+![Preview do botão](./preview.png)
 
 ---
 
