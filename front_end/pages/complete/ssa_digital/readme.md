@@ -8,6 +8,12 @@ Fiquei responsável por toda a camada de **front-end**.
 
 ---
 
+## 🎥 Prévia
+
+![Preview do botão](./preview.gif)
+
+---
+
 ## ✨ Sobre o projeto
 
 As páginas foram construídas em **HTML5, CSS3 e JavaScript**.  
