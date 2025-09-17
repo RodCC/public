@@ -27,7 +27,7 @@ Todo o front-end foi finalizado conforme solicitado e validado ao longo do proce
 
 - **HTML5** → Estrutura semântica e organização do conteúdo.  
 - **CSS3** → Estilização, responsividade e personalização visual.  
-- **JavaScript (Vanilla)** → Recursos interativos como banners e carousels.  
+- **JavaScript** → Recursos interativos como banners e carousels.  
 
 ---
 
