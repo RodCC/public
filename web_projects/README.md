@@ -1,6 +1,6 @@
 # 🌐 Web Projects  
 
-Bem-vindo(a) ao meu repositório de **projetos web** 🚀  
+Seção destinada a **projetos web**. 🚀   
 Aqui compartilho experiências, aprendizados e criações que marcaram minha jornada como **desenvolvedor web**.  
 
 ---
