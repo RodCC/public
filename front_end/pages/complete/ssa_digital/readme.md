@@ -69,4 +69,4 @@ Todo o front-end foi finalizado conforme solicitado e validado ao longo do proce
 
 ---
 
-✦ Desenvolvido por Rodrigo Canário Cerqueira em parceria com **SSA Digital**.
+✦ Desenvolvido por *Rodrigo Canário Cerqueira*.
