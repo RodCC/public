@@ -3,7 +3,7 @@
 Este repositório apresenta o **projeto de front-end** desenvolvido para a venda de certificados digitais.  
 O site oferecia modelos como **e-CPF** e **e-CNPJ**, disponíveis em diferentes formatos: digital, token e cartão.  
 
-O trabalho foi realizado em parceria com a **SSA Digital**.  
+O trabalho foi realizado para a empresa **SSA Digital**.  
 Fiquei responsável por toda a camada de **front-end**.  
 
 ---
