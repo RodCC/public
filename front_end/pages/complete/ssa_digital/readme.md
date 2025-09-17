@@ -45,11 +45,11 @@ Todo o front-end foi finalizado conforme solicitado e validado ao longo do proce
 
 ## 📂 Estrutura dos arquivos
 
-- `/index.html` → Página inicial com o banner dinâmico.  
-- `/css/` → Estilos em CSS3.  
-- `/scss/` → Arquivos-fonte em SCSS (pré-processador, compilado para CSS).  
-- `/js/` → Scripts JavaScript para interatividade.  
-- `/assets/` → Imagens, ícones e outros recursos visuais.  
+- `/index.html` → Página inicial com o slider principal.
+- `/css/` → Pasta de estilos (CSS3).
+- `/fonts/` → Pasta de fontes.
+- `/images/` → Pasta de imagens.    
+- `/js/` → Pasta com scripts de interatividade.  
 
 ---
 
